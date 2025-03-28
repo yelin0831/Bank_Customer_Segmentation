@@ -63,6 +63,23 @@ Generated visualizations and reports can be found in the `reports/` folder.
 
 ---
 
+## 📊 Visualizations
+
+The project includes several visualizations that illustrate the key insights derived from the customer segmentation analysis:
+
+- **Customer Demographics:**  
+  Bar charts and histograms displaying the distribution of customer ages and gender-based transaction analysis.
+
+- **Transaction Patterns:**  
+  Time series plots highlighting transaction trends across different periods (morning, afternoon, evening, night) and heatmaps showing transaction frequency by location.
+
+- **Clustering Results:**  
+  Scatter plots visualizing clusters from KMeans, differentiating groups based on account balance, transaction amount, and age.
+
+All generated visualizations, along with the complete analysis report, can be found in the `reports/` folder.
+
+---
+
 ## 📁 Folder Structure
 
 ```
