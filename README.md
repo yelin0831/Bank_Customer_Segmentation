@@ -41,8 +41,38 @@ This project focuses on segmenting bank customers based on their transactional b
 - **GitHub**: for version control and sharing
 
 ---
+## 🔧 Setup
 
-## 📁 Folder Structure# Bank_Customer_Segmentation
+To install required packages, run:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## 🚀 How to Run
+
+Once dependencies are installed, you can run the clustering analysis using:
+
+```bash
+python scripts/customer_segmentation.py
+```
+
+Generated visualizations and reports can be found in the `reports/` folder.
+
+---
+
+## 📁 Folder Structure
+
+```
+Bank_Customer_Segmentation/
+├── data/                  # Raw transaction data
+├── reports/               # Plots and analysis outputs
+├── scripts/               # Main Python scripts (e.g., customer_segmentation.py)
+├── requirements.txt       # Python package dependencies
+└── README.md              # Project overview
+```
 
 ---
 
