@@ -80,6 +80,14 @@ All generated visualizations, along with the complete analysis report, can be fo
 
 ---
 
+![Avg Transaction Amount by Age Group](reports/images/Average%20Transaction%20Amount%20by%20Age%20Group.png)
+![Avg Transaction Amount by Gender](reports/images/Avg%20Transaction%20Amount%20by%20Gender.png)
+![Top 10 Transaction Locations](reports/images/Top%2010%20Transaction%20Locations.png)
+![Transaction Count by AgeGroup](reports/images/Transaction%20Count%20by%20AgeGroup.png)
+![Transaction Counts by TimeSlot](reports/images/transaction%20counts%20by%20TimeSlot.png)
+
+---
+
 ## 📁 Folder Structure
 
 ```
